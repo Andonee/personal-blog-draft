@@ -18,8 +18,6 @@ const urls = [
 
 const Navigation = () => {
   const router = useRouter();
-
-  console.log("router", router);
   return (
     <StyledNavigation>
       <ul>

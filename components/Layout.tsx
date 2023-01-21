@@ -24,5 +24,5 @@ const StyledLayout = styled.div`
 `;
 
 const StyledMain = styled.main`
-  width: 85%;
+  width: 60%;
 `;
